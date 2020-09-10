@@ -8,3 +8,5 @@ This is the vala app.
 - feature 3
 - feature 4
 - feature 5
+
+This is a rejected pull request.
